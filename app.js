@@ -131,7 +131,7 @@ app.service('studentService', ['$q', function ($q) {
             "websiteUrl": "https://cominback.github.io/iceland/",
             "codeSourceUrl": "https://github.com/cominback/iceland",
             "cvUrl": "",
-            "photo": "images/students/no-photo.gif"
+            "photo": "images/students/demkovych.jpg"
         },
         {
             "name": "Bronevytskyy Stanislav",
